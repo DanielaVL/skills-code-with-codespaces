@@ -1,7 +1,7 @@
 {
-  // Name this configuration
+  "_comentario": "Name this configuration",
   "name": "Codespace for Skills!",
-  // Use the base codespace image
+  "_comentario": "Use the base codespace image",
   "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
 
   "remoteUser": "codespace",
